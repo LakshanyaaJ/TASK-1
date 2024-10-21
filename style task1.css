@@ -1,0 +1,46 @@
+*{
+    background-color: black;
+}
+table{
+    width: 80px;
+    height: 80px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    font-size:100px;
+    font-style: italic;
+    background-color:darkolivegreen;
+    padding-right: 30px;
+}
+button{
+    font-size: 50px;
+    color: black;
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: darkolivegreen;
+    margin-top: -100px;
+}
+button:hover{
+    background-color:brown ;
+}
+input{
+    border-style: solid;
+    border-color: black;
+}
+div{
+    h1{
+        background-color:darkolivegreen;
+        color:coral;
+        height: 100px;
+        padding-top: 20px;
+        margin-top: 40px;
+        border: 2px;
+        border-color: black;
+        border-style: solid;
+        text-align: center;
+        width: 1250px;
+        font-size: 80px;
+    }
+}
